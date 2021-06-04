@@ -5,9 +5,9 @@ public class FoeMissile : MonoBehaviour
 {
     [SerializeField] float speed = 1f;
     [SerializeField] float range = 30f;
-    [SerializeField] float height = 10f;
+    //[SerializeField] float height = 10f;
     [SerializeField] float deadEnd = 3000f;
-    [SerializeField] float gravity = 9.8f;
+    //[SerializeField] float gravity = 9.8f;
 
 
     public void Launch(float _speed)
