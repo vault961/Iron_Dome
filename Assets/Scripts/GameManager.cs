@@ -23,8 +23,3 @@ public static class Invoker
         catch (Exception e) { Debug.Assert(false, $"Except: {e.Message}\n{e.StackTrace}"); }
     }
 }
-
-public enum Layer
-{
-    Missile,
-}

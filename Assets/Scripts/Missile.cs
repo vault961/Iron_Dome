@@ -9,7 +9,7 @@ public class Missile : MonoBehaviour
     float rotateSpeed = 500f;
     float waitTime = 0.5f;
     float turnSpeed = 10f;
-    float viewAngle = 10f;
+    //float viewAngle = 10f;
 
     private void Update()
     {
